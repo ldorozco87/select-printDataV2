@@ -1,0 +1,54 @@
+[
+    {
+      "Country": "Australia",
+      "Drugs": [
+        "Descovy",
+        "Emtriva",
+        "Eviplera",
+        "Genvoya",
+        "Harvoni"
+      ]
+    },
+    {
+      "Country": "Austria",
+      "Drugs": [
+        "AmBisome",
+        "Atripla",
+        "Cayston",
+        "Descovy",
+        "Eleclazine"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Drugs": [
+        "Flolan",
+        "Genvoya",
+        "Letairis",
+        "Sovaldi"
+      ]
+    },
+    {
+      "Country": "United States",
+      "Drugs": [
+        "AmBisome",
+        "Atripla",
+        "Cayston",
+        "Descovy",
+        "Eleclazine",
+        "Emtriva",
+        "Eviplera",
+        "Genvoya",
+        "Harvoni",
+        "Flolan",
+        "Genvoya",
+        "Letairis",
+        "Sovaldi"
+      ]
+    },
+    {
+      "Country": "Panama",
+      "Drugs": [
+      ]
+    }
+  ]

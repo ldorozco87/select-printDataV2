@@ -1,0 +1,125 @@
+[
+	{
+		"Drug": "AmBisome",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Jordan; Korea"
+	},
+	{
+		"Drug": "Atripla",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Ireland; Israel; Italy; Netherlands; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States; United States Minor Outlying Islands"
+	},
+	{
+		"Drug": "Biktarvy",
+		"Countries": "United States"
+	},
+	{
+		"Drug": "Cayston",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Israel; Italy; Netherlands; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States; United States Minor Outlying Islands"
+	},
+	{
+		"Drug": "Complera",
+		"Countries": "Canada"
+	},
+	{
+		"Drug": "Daunoxome",
+		"Countries": "Canada"
+	},
+	{
+		"Drug": "Descovy",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Czech Republic; Denmark; Finland; France; France"
+	},
+	{
+		"Drug": "Eleclazine",
+		"Countries": "Afghanistan; Albania; Algeria; American Samoa; Andorra; Angola; Anguilla; Antarctica; Argentina; Armenia; Aruba; Azerbaijan; Bahamas; Bangladesh; Barbados; Belarus; Belize; Benin; Bhutan; Bolivia; Bosnia And Herzegowina; Botswana; Bouvet Island; Brazil; Kazakhstan; Kenya; Kiribati; Kuwait; Kyrgyzstan; Lao People's Democratic Republic; Latvia; Lesotho; Liberia; Libyan Arab Jamahiriya; Liechtenstein; Lithuania; Luxembourg; Macedonia; Madagascar; Malawi; Malaysia; Maldives; Mali; Malta; Marshall Islands; Martinique; Mauritania; Mauritius; Mayotte; Mexico; Micronesia; South Africa; United States"
+	},
+	{
+		"Drug": "Emtriva",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Japan; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Epclusa",
+		"Countries": "Austria; Bahrain; Belgium; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Jordan; Kuwait; Lebanon; Netherlands; Netherlands Antilles; Norway; Oman; Poland; Portugal; Qatar; Russian Federation; Saudi Arabia; Singapore; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; Syrian Arab Republic; United Arab Emirates; United Kingdom; United States; United States Minor Outlying Islands; Yemen"
+	},
+	{
+		"Drug": "Eviplera",
+		"Countries": "Australia; Austria; Belgium; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Flolan",
+		"Countries": "Canada"
+	},
+	{
+		"Drug": "Genvoya",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Harvoni",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Hepsera",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; Turkey; United Kingdom; United States"
+	},
+	{
+		"Drug": "Letairis",
+		"Countries": "Canada"
+	},
+	{
+		"Drug": "Odefsey",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; Turkey; United Kingdom; United States"
+	},
+	{
+		"Drug": "Presatovir",
+		"Countries": "Afghanistan; Algeria; American Samoa; Andorra; Angola; Anguilla; Antarctica; Argentina; Armenia; Aruba; Azerbaijan; Bahamas; Bahrain; Bangladesh; Barbados; Belarus; Belize; Benin; Bhutan; Bolivia; Bosnia And Herzegowina; Botswana; Bouvet Island; Brazil; Kazakhstan; Kenya; Kiribati; Kuwait; Kyrgyzstan; Lao People's Democratic Republic; Latvia; Lebanon; Lesotho; Liberia; Libyan Arab Jamahiriya; Liechtenstein; Lithuania; Luxembourg; Macau; Macedonia; Madagascar; Malawi; Malaysia; Maldives; Mali; Malta; Marshall Islands; Martinique; Mauritania; Mauritius; Mayotte; Mexico; Micronesia; South Africa; United States"
+	},
+	{
+		"Drug": "Ranexa",
+		"Countries": "Afghanistan; Albania; Algeria; American Samoa; Andorra; Angola; Anguilla; Antarctica; Argentina; Armenia; Aruba; Azerbaijan; Bahamas; Bangladesh; Barbados; Belarus; Belize; Benin; Bhutan; Bolivia; Bosnia And Herzegowina; Botswana; Bouvet Island; Brazil; Kazakhstan; Kenya; Kiribati; Kyrgyzstan; Lao People's Democratic Republic; Latvia; Lesotho; Liberia; Libyan Arab Jamahiriya; Liechtenstein; Lithuania; Macedonia; Madagascar; Malawi; Malaysia; Maldives; Mali; Malta; Marshall Islands; Martinique; Mauritania; Mauritius; Mayotte; Mexico; Micronesia; South Africa; United States"
+	},
+	{
+		"Drug": "Sovaldi",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Stribild",
+		"Countries": "Australia; Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Ireland; Israel; Italy; Japan; Korea"
+	},
+	{
+		"Drug": "Truvada",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Tybost",
+		"Countries": "Austria; Belgium; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Vemlidy",
+		"Countries": "Austria; Bahrain; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Viread",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; China; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Hong Kong; Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Israel; Italy; Japan; Jordan; Korea"
+	},
+	{
+		"Drug": "Vistide",
+		"Countries": "Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Vitekta",
+		"Countries": "Austria; Belgium; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Vosevi",
+		"Countries": "Austria; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Ireland; Italy; Netherlands; Netherlands Antilles; Norway; Poland; Portugal; Russian Federation; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; United Kingdom; United States"
+	},
+	{
+		"Drug": "Zydelig",
+		"Countries": "Australia; Austria; Bahrain; Belgium; Canada; Czech Republic; Denmark; Finland; France; Germany; Greece (Hellas); Iceland; Iran (Islamic Republic Of); Iraq; Ireland; Italy; Jordan; Kuwait; Lebanon; Netherlands; Netherlands Antilles; Norway; Oman; Poland; Portugal; Qatar; Russian Federation; Saudi Arabia; Slovakia (Slovak Republic); Spain; Sweden; Switzerland; Syrian Arab Republic; United Arab Emirates; United Kingdom; United States; Yemen"
+	},
+	{
+		"Drug": "Investigational",
+		"Countries": "Afghanistan; Albania; Algeria; American Samoa; Andorra; Angola; Anguilla; Antarctica; Argentina; Armenia; Aruba; Australia; Austria; Azerbaijan; Bahamas; Bahrain; Bangladesh; Barbados; Belarus; Belgium; Belize; Benin; Bhutan; Bolivia; Bosnia And Herzegowina; Botswana; Bouvet Island; Brazil; Japan; Jordan; Kazakhstan; Kenya; Kiribati; Korea"
+	},
+	{
+		"Drug": ""
+	}
+]

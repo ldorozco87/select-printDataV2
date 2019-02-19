@@ -1,0 +1,13 @@
+.drug {
+    display: none;
+
+    &.active {
+        color: black;
+        display: block;
+    }
+
+    &.default-drug {
+        display: block;
+        color: crimson;
+    }
+}
